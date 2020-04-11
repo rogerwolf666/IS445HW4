@@ -1,4 +1,6 @@
-h1 {
+
+
+h1{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -6,10 +8,11 @@ h1 {
   height: 10vh;
 }
 
-#emoji {
+
+.emoji {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 50vh;
+  height: 60vh;
 }
